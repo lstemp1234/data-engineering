@@ -1,0 +1,7 @@
+<h1>Import Purchase Data</h1>
+
+<%= form_tag({action: :create}, multipart: true) do %>
+  <%= submit_tag "Upload" %>
+  <%= file_field_tag 'data' %>
+  <br />
+<% end %>
