@@ -5,9 +5,9 @@ database.
 
 Setup
 -----
-# Install the dependencies
-# run 'bundle install' to install the required Gems
-# run 'rails s' to start the server
+1. Install the dependencies
+2. run 'bundle install' to install the required Gems
+3. run 'rails s' to start the server
 
 Dependencies
 ------------
@@ -17,7 +17,7 @@ Dependencies
 
 Testing
 -------
-# Install the dependencies
-# run 'bundle install' to install the required Gems
-# run 'rake test' to perform a single test run
-# run 'guard' to have run continual tests
+1. Install the dependencies
+2. run 'bundle install' to install the required Gems
+3. run 'rake test' to perform a single test run
+4. run 'guard' to have run continual tests
